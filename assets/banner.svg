@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" font-family="'Segoe UI',Verdana,sans-serif" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#aeb4d8"/>
+      <stop offset="1" stop-color="#c7cbe6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" fill="url(#sky)"/>
+  <!-- pixel clouds -->
+  <g fill="#f3f4fb" opacity="0.95">
+    <rect x="120" y="46" width="90" height="16"/><rect x="104" y="58" width="130" height="14"/><rect x="140" y="34" width="54" height="14"/>
+    <rect x="770" y="60" width="110" height="16"/><rect x="756" y="72" width="150" height="14"/><rect x="800" y="48" width="64" height="14"/>
+    <rect x="470" y="30" width="70" height="12"/><rect x="458" y="40" width="98" height="12"/>
+  </g>
+  <!-- ground strip -->
+  <g>
+    <rect x="0" y="212" width="1000" height="48" fill="#7fae5a"/>
+    <rect x="0" y="206" width="1000" height="8" fill="#6b9c48"/>
+    <g fill="#8fbd68">
+      <rect x="40" y="196" width="10" height="12"/><rect x="50" y="190" width="10" height="18"/><rect x="60" y="196" width="10" height="12"/>
+      <rect x="300" y="196" width="10" height="12"/><rect x="310" y="188" width="10" height="20"/><rect x="320" y="196" width="10" height="12"/>
+      <rect x="650" y="196" width="10" height="12"/><rect x="660" y="190" width="10" height="18"/><rect x="670" y="196" width="10" height="12"/>
+      <rect x="930" y="196" width="10" height="12"/><rect x="940" y="188" width="10" height="20"/><rect x="950" y="196" width="10" height="12"/>
+    </g>
+  </g>
+  <!-- title -->
+  <text x="500" y="130" text-anchor="middle" font-size="76" font-weight="800" fill="#242424" letter-spacing="2">pucupucu</text>
+  <text x="500" y="170" text-anchor="middle" font-size="26" font-weight="600" fill="#3c3c3c" letter-spacing="3">Aku &amp; Kamu</text>
+  <!-- pixel heart -->
+  <g fill="#c4615a" transform="translate(468,186)">
+    <rect x="6" y="0" width="6" height="6"/><rect x="24" y="0" width="6" height="6"/>
+    <rect x="0" y="6" width="36" height="6"/>
+    <rect x="6" y="12" width="24" height="6"/>
+    <rect x="12" y="18" width="12" height="6"/>
+  </g>
+</svg>
