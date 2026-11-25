@@ -36,3 +36,9 @@ Ambil APK versi terbaru di halaman **[Releases »](https://github.com/ky-Mind/pu
 1. Buka **pucupucu**.
 2. Saat ada versi baru, kotak **"Perbarui"** muncul otomatis — ketuk untuk memasang.
 3. Tanpa Play Store; pembaruan dicek tiap ~15 menit.
+
+## 🔒 Privasi
+
+Data kalian untuk berdua saja. Kode sumber aplikasi privat; repo ini hanya memuat berkas rilis (APK) dan catatan versi.
+
+<p align="center"><sub>Dibuat dengan 💚 untuk berdua.</sub></p>
