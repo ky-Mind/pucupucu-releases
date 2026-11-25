@@ -30,3 +30,9 @@ Ambil APK versi terbaru di halaman **[Releases »](https://github.com/ky-Mind/pu
 - 📍 **Jarak kita** — lihat jarak di peta piksel, cari HP yang hilang, bunyikan dari jauh.
 - 🎮 **Main bareng** — mini-game untuk dimainkan berdua.
 - 🔔 **Kabar & colekan** — saling kabari "lagi apa", kapan saja.
+
+## 🔄 Cara memperbarui
+
+1. Buka **pucupucu**.
+2. Saat ada versi baru, kotak **"Perbarui"** muncul otomatis — ketuk untuk memasang.
+3. Tanpa Play Store; pembaruan dicek tiap ~15 menit.
