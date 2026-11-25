@@ -21,3 +21,12 @@ pucupucu adalah aplikasi Android untuk pasangan: menyimpan kenangan, surat, tang
 Ambil APK versi terbaru di halaman **[Releases »](https://github.com/ky-Mind/pucupucu-releases/releases/latest)**, lalu pasang di HP Android (izinkan "instal dari sumber ini" bila diminta).
 
 > Sudah terpasang? Pembaruan muncul **otomatis** di dalam aplikasi lewat kotak **"Perbarui"** (dicek tiap ~15 menit) — tanpa Play Store.
+
+## ✨ Fitur
+
+- 💌 **Surat** — tulis surat yang bisa dikunci sampai tanggal tertentu.
+- 🗓️ **Tanggal penting** — ulang tahun, hari jadi, rencana; tersinkron berdua.
+- 🖼️ **Kenangan** — simpan foto & cerita kalian.
+- 📍 **Jarak kita** — lihat jarak di peta piksel, cari HP yang hilang, bunyikan dari jauh.
+- 🎮 **Main bareng** — mini-game untuk dimainkan berdua.
+- 🔔 **Kabar & colekan** — saling kabari "lagi apa", kapan saja.
